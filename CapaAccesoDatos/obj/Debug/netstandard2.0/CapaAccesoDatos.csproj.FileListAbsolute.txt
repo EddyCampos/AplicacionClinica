@@ -1,0 +1,45 @@
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\ClinicaMedica_Eddy\CapaAccesoDatos\bin\Debug\netstandard2.0\CapaAccesoDatos.deps.json
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\ClinicaMedica_Eddy\CapaAccesoDatos\bin\Debug\netstandard2.0\CapaAccesoDatos.dll
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\ClinicaMedica_Eddy\CapaAccesoDatos\bin\Debug\netstandard2.0\CapaAccesoDatos.pdb
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\ClinicaMedica_Eddy\CapaAccesoDatos\bin\Debug\netstandard2.0\CapaEntidades.dll
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\ClinicaMedica_Eddy\CapaAccesoDatos\bin\Debug\netstandard2.0\CapaEntidades.pdb
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\ClinicaMedica_Eddy\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\ClinicaMedica_Eddy\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.Properties.Resources.resources
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\ClinicaMedica_Eddy\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\ClinicaMedica_Eddy\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\ClinicaMedica_Eddy\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\ClinicaMedica_Eddy\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\ClinicaMedica_Eddy\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\ClinicaMedica_Eddy\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\ClinicaMedica_Eddy\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.dll
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\ClinicaMedica_Eddy\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.pdb
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\ClinicaMedica Respaldo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\ClinicaMedica Respaldo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.Properties.Resources.resources
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\ClinicaMedica Respaldo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\ClinicaMedica Respaldo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\ClinicaMedica Respaldo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\ClinicaMedica Respaldo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\ClinicaMedica Respaldo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\ClinicaMedica Respaldo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.dll
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\ClinicaMedica Respaldo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.pdb
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\ClinicaMedica Respaldo\CapaAccesoDatos\bin\Debug\netstandard2.0\CapaAccesoDatos.deps.json
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\ClinicaMedica Respaldo\CapaAccesoDatos\bin\Debug\netstandard2.0\CapaAccesoDatos.dll
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\ClinicaMedica Respaldo\CapaAccesoDatos\bin\Debug\netstandard2.0\CapaAccesoDatos.pdb
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\ClinicaMedica Respaldo\CapaAccesoDatos\bin\Debug\netstandard2.0\CapaEntidades.dll
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\ClinicaMedica Respaldo\CapaAccesoDatos\bin\Debug\netstandard2.0\CapaEntidades.pdb
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\ClinicaMedica Respaldo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\EddyProyecto\ClinicaMedica\CapaAccesoDatos\bin\Debug\netstandard2.0\CapaAccesoDatos.deps.json
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\EddyProyecto\ClinicaMedica\CapaAccesoDatos\bin\Debug\netstandard2.0\CapaAccesoDatos.dll
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\EddyProyecto\ClinicaMedica\CapaAccesoDatos\bin\Debug\netstandard2.0\CapaAccesoDatos.pdb
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\EddyProyecto\ClinicaMedica\CapaAccesoDatos\bin\Debug\netstandard2.0\CapaEntidades.dll
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\EddyProyecto\ClinicaMedica\CapaAccesoDatos\bin\Debug\netstandard2.0\CapaEntidades.pdb
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\EddyProyecto\ClinicaMedica\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\EddyProyecto\ClinicaMedica\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.Properties.Resources.resources
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\EddyProyecto\ClinicaMedica\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\EddyProyecto\ClinicaMedica\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\EddyProyecto\ClinicaMedica\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\EddyProyecto\ClinicaMedica\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\EddyProyecto\ClinicaMedica\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\EddyProyecto\ClinicaMedica\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\EddyProyecto\ClinicaMedica\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.dll
+C:\Users\Usuario\Documents\Módulo 5 Programación Orientada Objetos\Proyecto\EddyProyecto\ClinicaMedica\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.pdb
